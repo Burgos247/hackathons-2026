@@ -1,0 +1,31 @@
+{
+  "$schema": "../projects-schema.json",
+  "hackathon": "foundations",
+  "month": "Marzo 2026",
+  "projects": [
+    {
+      "id": "lightning-pos-demo",
+      "name": "Lightning POS Demo",
+      "description": "Point of Sale simple para comercios. Genera invoices, muestra QR, confirma pagos en tiempo real.",
+      "team": [
+        {
+          "name": "Satoshi Example",
+          "github": "satoshi-example",
+          "role": "Lead Dev"
+        }
+      ],
+      "repo": "https://github.com/example/lightning-pos-demo",
+      "demo": "https://lightning-pos-demo.vercel.app",
+      "tech": ["TypeScript", "React", "LNBits API"],
+      "status": "building",
+      "submittedAt": "2026-03-03"
+    }
+  ],
+  "_instructions": {
+    "howToAdd": "Para agregar tu proyecto, hacé un PR a este archivo agregando tu proyecto al array 'projects'.",
+    "requiredFields": ["id", "name", "description", "team", "status"],
+    "optionalFields": ["repo", "demo", "tech", "submittedAt"],
+    "statusOptions": ["idea", "building", "submitted", "finalist", "winner"],
+    "teamRoles": ["Lead Dev", "Dev", "Designer", "PM"]
+  }
+}
