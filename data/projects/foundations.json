@@ -52,6 +52,23 @@
       "tech": ["Alby SDK", "NWC", "LNURL", "WebLN", "Vite"],
       "status": "building",
       "submittedAt": "2026-03-06"
+    },
+    {
+      "id": "Streamsats",
+      "name": "Streamsats",
+      "description": "Un juego de agilidad mental donde con micropagos por pistas dinámicas, compitiendo en tiempo real por un bote acumulado de sats.",
+      "team": [
+        {
+          "name": "Federico",
+          "github": "FedericoLuque",
+          "role": "Lead Dev"
+        }
+      ],
+      "repo": "https://github.com/FedericoLuque/Streamsats",
+      "demo": "",
+      "tech": ["Alby SDK", "NWC", "LNURL", "WebLN", "Vite"],
+      "status": "building",
+      "submittedAt": "2026-03-08"
     }
   ],
   "_instructions": {
