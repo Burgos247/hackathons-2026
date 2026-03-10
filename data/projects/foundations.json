@@ -250,7 +250,9 @@
             "LNURL",
             "WebLN",
             "Vite"
-         ]
+         ],
+         "status":"building",
+         "submittedAt":"2026-03-10"
       },
       {
          "id":"stacktris",
