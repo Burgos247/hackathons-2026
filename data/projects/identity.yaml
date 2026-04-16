@@ -153,6 +153,29 @@ projects:
     status: building
     submittedAt: "2026-04-10"
 
+    - id: tamagostrich
+    name: Tamagostrich
+    description: "Mascota virtual (avestruz) que vive en el protocolo Nostr. Cuidá a Nori, tu Tamagotchi descentralizado con identidad propia."
+    team:
+      - name: Negr0
+        github: Negr087
+        role: Dev
+    repo: https://github.com/Negr087/tamagostrich
+    demo: "https://tamagostrich.vercel.app"
+    tech:
+      - Nostr
+      - NIP-01
+      - NIP-07
+      - NIP-46
+      - NIP-58
+      - NIP-65
+      - NDK
+      - Next.js
+      - Three.js
+      - Vercel
+    status: building
+    submittedAt: "2026-04-16"
+
   - id: nostr-kahoot
     name: "Nostr Kahoot"
     description: "Kahoot descentralizado construido en Nostr. Cuestionarios interactivos en tiempo real con autenticación NIP-07, eventos firmados criptográficamente, QR para unirse y ranking en vivo."
