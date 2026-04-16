@@ -153,7 +153,7 @@ projects:
     status: building
     submittedAt: "2026-04-10"
 
-    - id: tamagostrich
+  - id: tamagostrich
     name: Tamagostrich
     description: "Mascota virtual (avestruz) que vive en el protocolo Nostr. Cuidá a Nori, tu Tamagotchi descentralizado con identidad propia."
     team:
