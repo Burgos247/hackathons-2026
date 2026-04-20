@@ -1,3 +1,4 @@
+
 # Hackathon: IDENTITY — Abril 2026
 # Para agregar tu proyecto, hace un PR a este archivo agregando tu proyecto a la lista 'projects'.
 #
@@ -173,3 +174,35 @@ projects:
       - Vercel
     status: building
     submittedAt: "2026-04-15"
+
+      - id: hash21
+    name: "Hash21 — Arte, Identidad y Bitcoin"
+    description: "Plataforma completa de arte Bitcoin-native. Galería con artistas verificados via Nostr, certificación on-chain (OpenTimestamps), subastas P2P descentralizadas, pagos Lightning directos y shop. 8 NIPs implementados. La identidad Nostr del artista es el eje: firma obras, certifica, subasta y cobra — sin intermediarios."
+    team:
+      - name: Lai
+        github: warrior-lai
+        role: Founder and artist
+      - name: Ragnar
+        role: IA Dev
+    repo: https://github.com/warrior-lai/hash-21
+    demo: "https://hash21.studio"
+    tech:
+      - Nostr
+      - NIP-01
+      - NIP-05
+      - NIP-07
+      - NIP-19
+      - NIP-44
+      - NIP-46
+      - NIP-57
+      - NIP-98
+      - Bitcoin
+      - OpenTimestamps
+      - Lightning
+      - React 19
+      - Vite
+      - Vitest
+      - Supabase
+      - Vercel
+    status: submitted
+    submittedAt: "2026-04-19"
