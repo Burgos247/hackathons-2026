@@ -229,3 +229,27 @@ projects:
       - Vercel
     status: submitted
     submittedAt: "2026-04-19"
+
+  - id: caju
+    name: "Cajú"
+    description: "Quizzes en tiempo real sobre Nostr. Sin backend, sin base de datos — cada pregunta y respuesta es un evento firmado."
+    team:
+      - name: Burgos
+        github: Burgos247
+        role: Dev
+    repo: https://github.com/Burgos247/Caju
+    demo: "https://caju-sigma.vercel.app/"
+    tech:                                                                                           
+      - Nostr                                                                                       
+      - NIP-01                       
+      - NIP-07                                                                                      
+      - NIP-19                                                                                      
+      - NIP-46                                                                                      
+      - NDK                                                                                         
+      - nostr-tools                                                                
+      - Next.js 15
+      - React 19
+      - TypeScript
+      - Vercel
+    status: building
+    submittedAt: "2026-04-21"
