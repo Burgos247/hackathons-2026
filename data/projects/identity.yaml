@@ -1,4 +1,3 @@
-
 # Hackathon: IDENTITY — Abril 2026
 # Para agregar tu proyecto, hace un PR a este archivo agregando tu proyecto a la lista 'projects'.
 #
@@ -28,6 +27,7 @@ projects:
       - Vite
     status: official
     submittedAt: "2026-04-01"
+
   - id: scammer-come-empanadas-detector
     name: "Scammer & Come Empanadas Detector"
     description: "Nostr Identity Hub con verificación NIP-05, badges de reputación y detección de scammers/come empanadas para la comunidad de La Crypta."
@@ -98,7 +98,7 @@ projects:
     submittedAt: "2026-04-10"
 
   - id: predictr
-    name: Predictr — P2P Bitcoin Prediction Bulletin
+    name: "Predictr — P2P Bitcoin Prediction Bulletin"
     description: "Mercado de apuestas P2P trustless y browser-native: los usuarios publican bets en Nostr, negocian via DMs cifrados (NIP-44) y liquidan on-chain con contratos Bitcoin Taproot. Sin coordinador, sin custodio, sin backend."
     team:
       - name: nic(o)
@@ -198,7 +198,7 @@ projects:
     status: building
     submittedAt: "2026-04-15"
 
-      - id: hash21
+  - id: hash21
     name: "Hash21 — Arte, Identidad y Bitcoin"
     description: "Plataforma completa de arte Bitcoin-native. Galería con artistas verificados via Nostr, certificación on-chain (OpenTimestamps), subastas P2P descentralizadas, pagos Lightning directos y shop. 8 NIPs implementados. La identidad Nostr del artista es el eje: firma obras, certifica, subasta y cobra — sin intermediarios."
     team:
